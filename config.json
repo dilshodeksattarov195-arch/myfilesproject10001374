@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "authptringify",
+        "uuid": 6574590,
+        "checksum": "em3a7k"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
